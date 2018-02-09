@@ -35,4 +35,4 @@ _список матералов для изучения_
 1. [3D-моделлер/текстурщик](https://www.youtube.com/watch?v=mSy0TuiOXr4)
 1. [Blender](https://www.blender.org/) - тьюториалы
 1. [Unity модели](https://assetstore.unity.com/)
-1. [Канал "Blrnder Guru"](https://www.youtube.com/channel/UCOKHwx1VCdgnxwbjyb9Iu1g)
+1. [Канал "Blender Guru"](https://www.youtube.com/channel/UCOKHwx1VCdgnxwbjyb9Iu1g)
