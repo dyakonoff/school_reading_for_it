@@ -4,6 +4,34 @@ _список матералов для изучения_
 ## Выучите английский
 [Лингвалео](https://lingualeo.com/ru)
 
+Подборка по online ресурсам тем, кому не хватает английского. Здесь есть и бесплатные тесты и online тренинги, включая vocabulary, grammar, listening and reading. Отдельно writing и презентации.
+
+### General:
+* http://www.ielts.org/default.aspx
+* http://www.ieltsessentials.com/home.aspx
+* http://www.ielts-exam.net/index.php
+* http://www.examenglish.com/IELTS/index.html
+* http://takeielts.britishcouncil.org/prepare
+* https://www.teachers.cambridgeesol.org/ts/
+
+### Writing:
+* http://writefix.com/
+* http://www.ieltsbuddy.com/
+* http://www.ieltswriter.com/index.html
+* http://www.parapal-online.co.uk/
+* http://www.ielts-simon.com/
+* http://www2.elc.polyu.edu.hk/CILL/default4.htm
+* http://writesite.elearn.usyd.edu.au/
+
+### Giving Presentations in English:
+* http://www.englishclub.com/business-english/presentations.htm
+* http://www.business-english.com/
+* http://www.better-english.com/vocabulary.htm
+* http://www.effective-public-speaking.com/index.html
+* http://www.businessenglishpod.com/learningcenter2/
+* http://www.businessenglishsite.com/index.html
+
+
 ## Программирование, общее:
 1. [Habrahabr](https://habrahabr.ru/)
 1. [Степик](https://stepik.org/catalog)
