@@ -1,1 +1,8 @@
 theme: jekyll-theme-cayman
+title: Что почитать школьнику идущему в ИТ индустрию
+description: 
+theme: jekyll-theme-cayman
+show_downloads: false
+locale: ru-RU
+words_per_minute: 200
+repository: dyakonoff/school_reading_for_it
